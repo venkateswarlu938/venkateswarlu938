@@ -1,0 +1,2 @@
+3.21.168.236 ansible_user=ansadmin ansible_connection=ssh
+3.14.82.195 ansible_user=ansadmin ansible_connection=ssh
